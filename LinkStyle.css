@@ -1,0 +1,4 @@
+a:visited {text-decoration: none; color:blue}
+a:hover {text-decoration: none; color:lightgray}
+a:active {text-decoration: none; color:black}
+a {text-decoration-line: none}
